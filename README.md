@@ -1,7 +1,5 @@
 <div align="center">
-<h3> Hi I'm Paramee Weesinghe.
-
-My SLIIT registration Number is IT20019204 👋</h3>
+<h3> Hi I'm Paramee Weesinghe. 👋</h3>
 </div>
 <div align='left'>
   <a href='#'>
